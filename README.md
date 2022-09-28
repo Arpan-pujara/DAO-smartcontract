@@ -10,7 +10,7 @@ ERC20 Token (Voting Token) address: [0x38a50e6529Bb1F9CBB2f9631701958c2D959B9a2]
 
 ### Usage
 How to clone and run this project
-- Clone this repository : git clone https://github.com/Arpan-pujara/DAO-smart-contract.git
+- Clone this repository : git clone https://github.com/Arpan-pujara/DAO-smartcontract.git
 - Installing dependencies : `npm install`
 - Compile the smart contracts with Hardhat : `npx hardhat compile`
 - Run the tests : `npx hardhat test`
